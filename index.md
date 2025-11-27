@@ -55,3 +55,5 @@ _O texto termina. A operação continua._
 
 - [Terminal 4 – TET - Tratado do Espelho Técnico (versão pública)](T6_Espelho_Tecnico_Publico_v1.pdf)
 
+- Terminal 5 – TAID - Tratado da Arquitetura Interna Docente (versão pública)](/T7_TAID_Publico_v1.pdf)
+
