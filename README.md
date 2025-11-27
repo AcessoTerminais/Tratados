@@ -1,4 +1,4 @@
-Tratados
+$Terminais
 
 Este espaço disponibiliza registros manifestados durante a cessação de interferência do sujeito.
 Não há orientação, explicação ou finalidade educativa.
