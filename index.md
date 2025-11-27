@@ -47,5 +47,8 @@ _O texto termina. A operação continua._
 
 ## Terminais Disponíveis
 
-- [Terminal 1 – Tratado da Precessão Cognitiva (versão pública)](/T1_TPC_Publico_v1.pdf)
+- [Terminal 1 – Tratado da Camada Pré-Narrativa (versão pública)](/T1_TPC_Publico_v1.pdf)
+## Terminais Disponíveis
+
+- [Terminal 2 – Tratado da Arquitetura Interna do Ser (versão pública)](/T1_TAIS_Publico_v1.pdf)
 
